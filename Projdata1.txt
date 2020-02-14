@@ -1,0 +1,32 @@
+11 Westfall
+6 Teldrassil
+9 Darkshore
+3 Loch Modan
+3 Gilneas
+29 Ashenvale
+16 Duskwood
+11 Desolace
+6 Feralas
+6 Felwood
+8 Shadowmoon
+4 Redridge
+16 Stonetalon
+10 Wetlands
+6 Alterac
+10 Hinterlands
+5 Tanaris
+6 WP
+4 EP
+14 Silithus
+15 Wintergrasp
+18 Winterspring
+7 Talador
+20 Nagrand
+9 Ashran
+11 Arathi
+38 Grizzly 
+13 Crystalsong
+12 Deepholm
+5 Suramar
+10 Azsuna
+
